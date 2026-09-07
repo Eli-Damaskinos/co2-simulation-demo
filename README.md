@@ -12,9 +12,7 @@ trailer collections and alternative infrastructure configurations.
 - A trailer is called only when one certified tank holds its complete usable load
 - Manual no-delivery dates and reproducible random missed-delivery percentages
 - Configurable trailer target, pump rate and simultaneous loading bays
-- Named stresses including four-day gaps, back-to-back trailers and 24-hour gaps
-- Monte Carlo comparison of multiple tank, pump and loading-bay configurations
-- Operational resilience ranking, mass-balance checking and downloadable results
+- Downloadable results
 
 ## Run
 
