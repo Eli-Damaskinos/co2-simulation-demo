@@ -28,9 +28,3 @@ streamlit run app.py
 ```bash
 python -m unittest -v test_simulation.py
 ```
-
-## Ranking interpretation
-
-The comparison ranks physical resilience by lowest worst-case CO₂ loss, then
-average loss, pending trailers and storage capacity. It is not a financial
-ranking; CAPEX and OPEX inputs are required before comparing economic value.
